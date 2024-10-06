@@ -1,0 +1,6 @@
+Nome                 ID Matricula Materia         Carga Horaria Professor       Taxa Presenca  
+luis                 324234334  poo1            57         leandro         76.00%
+                  atp2            57         victor          80.00%
+                  bd1             75         kenyo           72.00%
+                  etica           76         paulo           80.00%
+                  calculo1        75         pablo           89.00%
